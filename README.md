@@ -2,7 +2,7 @@
 
 This is my log for the 100 days challenge. 
 
-[Round 1](R1_Plotly_Dash_app.md)
+[Round 1](R1.md) *in progress*
 
-[Round 3](R3.md)
+[Round 2](R3.md) *in progress*
 
